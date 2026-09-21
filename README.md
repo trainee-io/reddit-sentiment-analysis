@@ -28,4 +28,7 @@ A full NLP pipeline analyzing over 1 million real-world Reddit comments to detec
 ### Comment Agreement Levels
 ![Upvote Ratio](figures/upvote_ratio.png)
 
-## Repository Structure
+## Links
+
+- **Demo Video:** [Watch on YouTube](https://www.youtube.com/watch?v=yxqX6NZYPPo)
+- **Dataset:** [Reddit on Israel-Palestine Daily Updated (Kaggle)](https://www.kaggle.com/datasets/asaniczka/reddit-on-israel-palestine-daily-updated)
